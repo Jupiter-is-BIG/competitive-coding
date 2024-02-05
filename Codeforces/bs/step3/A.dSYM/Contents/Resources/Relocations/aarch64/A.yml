@@ -1,0 +1,20 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     A
+relocations:
+  - { offsetInCU: 0xA2, offset: 0xA2, size: 0x8, addend: 0x0, symName: __ZNSt6vectorIxSaIxEED1Ev, symObjAddr: 0x0, symBinAddr: 0x1000038F0, symSize: 0x20 }
+  - { offsetInCU: 0x16F63, offset: 0x16F63, size: 0x8, addend: 0x0, symName: __ZStL8__ioinit, symObjAddr: 0xA8A60, symBinAddr: 0x100008038, symSize: 0x0 }
+  - { offsetInCU: 0x1BD95, offset: 0x1BD95, size: 0x8, addend: 0x0, symName: _n, symObjAddr: 0xA8A58, symBinAddr: 0x100008030, symSize: 0x0 }
+  - { offsetInCU: 0x1D70E, offset: 0x1D70E, size: 0x8, addend: 0x0, symName: _x, symObjAddr: 0xA8A40, symBinAddr: 0x100008018, symSize: 0x0 }
+  - { offsetInCU: 0x1D729, offset: 0x1D729, size: 0x8, addend: 0x0, symName: _v, symObjAddr: 0xA8A28, symBinAddr: 0x100008000, symSize: 0x0 }
+  - { offsetInCU: 0x2328B, offset: 0x2328B, size: 0x8, addend: 0x0, symName: __GLOBAL__sub_I_A.cpp, symObjAddr: 0x414, symBinAddr: 0x100003CE4, symSize: 0x70 }
+  - { offsetInCU: 0x232ED, offset: 0x232ED, size: 0x8, addend: 0x0, symName: __ZNSt6vectorIxSaIxEED1Ev, symObjAddr: 0x0, symBinAddr: 0x1000038F0, symSize: 0x20 }
+  - { offsetInCU: 0x23AC7, offset: 0x23AC7, size: 0x8, addend: 0x0, symName: __ZNSt6vectorIxSaIxEE17_M_default_appendEm, symObjAddr: 0xB4, symBinAddr: 0x1000039A4, symSize: 0x17C }
+  - { offsetInCU: 0x2461B, offset: 0x2461B, size: 0x8, addend: 0x0, symName: __ZNSt6vectorIxSaIxEE6resizeEm, symObjAddr: 0x230, symBinAddr: 0x100003B20, symSize: 0x34 }
+  - { offsetInCU: 0x24660, offset: 0x24660, size: 0x8, addend: 0x0, symName: __ZNSt6vectorIxSaIxEE6resizeEm, symObjAddr: 0x230, symBinAddr: 0x100003B20, symSize: 0x34 }
+  - { offsetInCU: 0x24821, offset: 0x24821, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x290, symBinAddr: 0x100003B60, symSize: 0x184 }
+  - { offsetInCU: 0x24829, offset: 0x24829, size: 0x8, addend: 0x0, symName: __GLOBAL__sub_I_A.cpp, symObjAddr: 0x414, symBinAddr: 0x100003CE4, symSize: 0x70 }
+  - { offsetInCU: 0x24B21, offset: 0x24B21, size: 0x8, addend: 0x0, symName: __Z4goodd, symObjAddr: 0x20, symBinAddr: 0x100003910, symSize: 0x94 }
+  - { offsetInCU: 0x24B29, offset: 0x24B29, size: 0x8, addend: 0x0, symName: __ZNSt6vectorIxSaIxEE17_M_default_appendEm, symObjAddr: 0xB4, symBinAddr: 0x1000039A4, symSize: 0x17C }
+  - { offsetInCU: 0x24BF5, offset: 0x24BF5, size: 0x8, addend: 0x0, symName: __Z4goodd, symObjAddr: 0x20, symBinAddr: 0x100003910, symSize: 0x94 }
+...

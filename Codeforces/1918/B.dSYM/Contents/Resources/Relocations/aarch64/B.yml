@@ -1,0 +1,16 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     B
+relocations:
+  - { offsetInCU: 0x9E, offset: 0x9E, size: 0x8, addend: 0x0, symName: __ZSt13__adjust_heapIN9__gnu_cxx17__normal_iteratorIPSt4pairIxxESt6vectorIS3_SaIS3_EEEElS3_NS0_5__ops15_Iter_less_iterEEvT_T0_SC_T1_T2_.isra.0, symObjAddr: 0x0, symBinAddr: 0x100003460, symSize: 0x174 }
+  - { offsetInCU: 0x171C0, offset: 0x171C0, size: 0x8, addend: 0x0, symName: __ZStL8__ioinit, symObjAddr: 0xB3390, symBinAddr: 0x10000801A, symSize: 0x0 }
+  - { offsetInCU: 0x238C5, offset: 0x238C5, size: 0x8, addend: 0x0, symName: __GLOBAL__sub_I_B.cpp, symObjAddr: 0x950, symBinAddr: 0x100003D50, symSize: 0x3C }
+  - { offsetInCU: 0x24D5E, offset: 0x24D5E, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x8F0, symBinAddr: 0x100003CF0, symSize: 0x60 }
+  - { offsetInCU: 0x24D66, offset: 0x24D66, size: 0x8, addend: 0x0, symName: __GLOBAL__sub_I_B.cpp, symObjAddr: 0x950, symBinAddr: 0x100003D50, symSize: 0x3C }
+  - { offsetInCU: 0x24E6A, offset: 0x24E6A, size: 0x8, addend: 0x0, symName: __Z5SOLVEv, symObjAddr: 0x4A4, symBinAddr: 0x100003904, symSize: 0x3EC }
+  - { offsetInCU: 0x25071, offset: 0x25071, size: 0x8, addend: 0x0, symName: __Z5SOLVEv, symObjAddr: 0x4A4, symBinAddr: 0x100003904, symSize: 0x3EC }
+  - { offsetInCU: 0x2665D, offset: 0x2665D, size: 0x8, addend: 0x0, symName: __ZSt13__adjust_heapIN9__gnu_cxx17__normal_iteratorIPSt4pairIxxESt6vectorIS3_SaIS3_EEEElS3_NS0_5__ops15_Iter_less_iterEEvT_T0_SC_T1_T2_.isra.0, symObjAddr: 0x0, symBinAddr: 0x100003460, symSize: 0x174 }
+  - { offsetInCU: 0x26665, offset: 0x26665, size: 0x8, addend: 0x0, symName: __ZSt16__introsort_loopIN9__gnu_cxx17__normal_iteratorIPSt4pairIxxESt6vectorIS3_SaIS3_EEEElNS0_5__ops15_Iter_less_iterEEvT_SB_T0_T1_.isra.0, symObjAddr: 0x174, symBinAddr: 0x1000035D4, symSize: 0x330 }
+  - { offsetInCU: 0x26C09, offset: 0x26C09, size: 0x8, addend: 0x0, symName: __ZSt16__introsort_loopIN9__gnu_cxx17__normal_iteratorIPSt4pairIxxESt6vectorIS3_SaIS3_EEEElNS0_5__ops15_Iter_less_iterEEvT_SB_T0_T1_.isra.0, symObjAddr: 0x174, symBinAddr: 0x1000035D4, symSize: 0x330 }
+  - { offsetInCU: 0x26C11, offset: 0x26C11, size: 0x8, addend: 0x0, symName: __Z5SOLVEv, symObjAddr: 0x4A4, symBinAddr: 0x100003904, symSize: 0x3EC }
+...

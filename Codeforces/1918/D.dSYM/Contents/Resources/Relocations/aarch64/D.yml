@@ -1,0 +1,21 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     D
+relocations:
+  - { offsetInCU: 0x9E, offset: 0x9E, size: 0x8, addend: 0x0, symName: __ZNSt6vectorIxSaIxEED1Ev, symObjAddr: 0x0, symBinAddr: 0x100003160, symSize: 0x20 }
+  - { offsetInCU: 0x16F79, offset: 0x16F79, size: 0x8, addend: 0x0, symName: __ZStL8__ioinit, symObjAddr: 0xBF278, symBinAddr: 0x100008038, symSize: 0x0 }
+  - { offsetInCU: 0x1C246, offset: 0x1C246, size: 0x8, addend: 0x0, symName: _n, symObjAddr: 0xBF270, symBinAddr: 0x100008030, symSize: 0x0 }
+  - { offsetInCU: 0x1DB7C, offset: 0x1DB7C, size: 0x8, addend: 0x0, symName: _a, symObjAddr: 0xBF258, symBinAddr: 0x100008018, symSize: 0x0 }
+  - { offsetInCU: 0x270C1, offset: 0x270C1, size: 0x8, addend: 0x0, symName: __GLOBAL__sub_I_D.cpp, symObjAddr: 0xA60, symBinAddr: 0x100003B50, symSize: 0x58 }
+  - { offsetInCU: 0x27CBB, offset: 0x27CBB, size: 0x8, addend: 0x0, symName: __ZNSt8_Rb_treeISt4pairIxxES1_St9_IdentityIS1_ESt4lessIS1_ESaIS1_EE11equal_rangeERKS1_, symObjAddr: 0x330, symBinAddr: 0x100003490, symSize: 0xD0 }
+  - { offsetInCU: 0x28703, offset: 0x28703, size: 0x8, addend: 0x0, symName: __ZNSt8_Rb_treeISt4pairIxxES1_St9_IdentityIS1_ESt4lessIS1_ESaIS1_EE16_M_insert_uniqueIS1_EES0_ISt17_Rb_tree_iteratorIS1_EbEOT_, symObjAddr: 0x1A0, symBinAddr: 0x100003300, symSize: 0x190 }
+  - { offsetInCU: 0x29374, offset: 0x29374, size: 0x8, addend: 0x0, symName: __ZNSt6vectorIxSaIxEED1Ev, symObjAddr: 0x0, symBinAddr: 0x100003160, symSize: 0x20 }
+  - { offsetInCU: 0x29582, offset: 0x29582, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0xA00, symBinAddr: 0x100003AF0, symSize: 0x60 }
+  - { offsetInCU: 0x2958A, offset: 0x2958A, size: 0x8, addend: 0x0, symName: __GLOBAL__sub_I_D.cpp, symObjAddr: 0xA60, symBinAddr: 0x100003B50, symSize: 0x58 }
+  - { offsetInCU: 0x2968E, offset: 0x2968E, size: 0x8, addend: 0x0, symName: __Z5SOLVEv, symObjAddr: 0x724, symBinAddr: 0x100003884, symSize: 0x26C }
+  - { offsetInCU: 0x2977B, offset: 0x2977B, size: 0x8, addend: 0x0, symName: __Z5SOLVEv, symObjAddr: 0x724, symBinAddr: 0x100003884, symSize: 0x26C }
+  - { offsetInCU: 0x2A2AB, offset: 0x2A2AB, size: 0x8, addend: 0x0, symName: __Z4goodx, symObjAddr: 0x400, symBinAddr: 0x100003560, symSize: 0x324 }
+  - { offsetInCU: 0x2A2B3, offset: 0x2A2B3, size: 0x8, addend: 0x0, symName: __Z5SOLVEv, symObjAddr: 0x724, symBinAddr: 0x100003884, symSize: 0x26C }
+  - { offsetInCU: 0x2B58F, offset: 0x2B58F, size: 0x8, addend: 0x0, symName: __ZNSt8_Rb_treeISt4pairIxxES1_St9_IdentityIS1_ESt4lessIS1_ESaIS1_EE8_M_eraseEPSt13_Rb_tree_nodeIS1_E.isra.0, symObjAddr: 0x20, symBinAddr: 0x100003180, symSize: 0x180 }
+  - { offsetInCU: 0x2B597, offset: 0x2B597, size: 0x8, addend: 0x0, symName: __ZNSt8_Rb_treeISt4pairIxxES1_St9_IdentityIS1_ESt4lessIS1_ESaIS1_EE16_M_insert_uniqueIS1_EES0_ISt17_Rb_tree_iteratorIS1_EbEOT_, symObjAddr: 0x1A0, symBinAddr: 0x100003300, symSize: 0x190 }
+...

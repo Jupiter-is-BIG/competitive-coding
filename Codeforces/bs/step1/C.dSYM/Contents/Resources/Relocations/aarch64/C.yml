@@ -1,0 +1,11 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     C
+relocations:
+  - { offsetInCU: 0xA2, offset: 0xA2, size: 0x8, addend: 0x0, symName: __ZNSt12_Vector_baseIiSaIiEED2Ev, symObjAddr: 0x0, symBinAddr: 0x100003C20, symSize: 0x1C }
+  - { offsetInCU: 0x16E18, offset: 0x16E18, size: 0x8, addend: 0x0, symName: __ZStL8__ioinit, symObjAddr: 0xA6B80, symBinAddr: 0x100008014, symSize: 0x0 }
+  - { offsetInCU: 0x22D8E, offset: 0x22D8E, size: 0x8, addend: 0x0, symName: __GLOBAL__sub_I_C.cpp, symObjAddr: 0x230, symBinAddr: 0x100003E10, symSize: 0x3C }
+  - { offsetInCU: 0x22D96, offset: 0x22D96, size: 0x8, addend: 0x0, symName: GCC_except_table0, symObjAddr: 0x26C, symBinAddr: 0x100008000, symSize: 0x0 }
+  - { offsetInCU: 0x23369, offset: 0x23369, size: 0x8, addend: 0x0, symName: __ZNSt12_Vector_baseIiSaIiEED2Ev, symObjAddr: 0x0, symBinAddr: 0x100003C20, symSize: 0x1C }
+  - { offsetInCU: 0x235AA, offset: 0x235AA, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x60, symBinAddr: 0x100003C40, symSize: 0x1D0 }
+...

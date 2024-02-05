@@ -1,0 +1,15 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     D
+relocations:
+  - { offsetInCU: 0xA2, offset: 0xA2, size: 0x8, addend: 0x0, symName: __ZSt16__insertion_sortIN9__gnu_cxx17__normal_iteratorIPiSt6vectorIiSaIiEEEENS0_5__ops15_Iter_less_iterEEvT_S9_T0_.isra.0, symObjAddr: 0x0, symBinAddr: 0x100003560, symSize: 0xD0 }
+  - { offsetInCU: 0x17093, offset: 0x17093, size: 0x8, addend: 0x0, symName: __ZStL8__ioinit, symObjAddr: 0xADD98, symBinAddr: 0x100008014, symSize: 0x0 }
+  - { offsetInCU: 0x233EC, offset: 0x233EC, size: 0x8, addend: 0x0, symName: __GLOBAL__sub_I_D.cpp, symObjAddr: 0x810, symBinAddr: 0x100003D20, symSize: 0x3C }
+  - { offsetInCU: 0x233F4, offset: 0x233F4, size: 0x8, addend: 0x0, symName: GCC_except_table0, symObjAddr: 0x84C, symBinAddr: 0x100008000, symSize: 0x0 }
+  - { offsetInCU: 0x24734, offset: 0x24734, size: 0x8, addend: 0x0, symName: __ZNSt12_Vector_baseIiSaIiEED2Ev, symObjAddr: 0x4C0, symBinAddr: 0x100003A20, symSize: 0x1C }
+  - { offsetInCU: 0x249B4, offset: 0x249B4, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x530, symBinAddr: 0x100003A40, symSize: 0x2E0 }
+  - { offsetInCU: 0x249BC, offset: 0x249BC, size: 0x8, addend: 0x0, symName: __GLOBAL__sub_I_D.cpp, symObjAddr: 0x810, symBinAddr: 0x100003D20, symSize: 0x3C }
+  - { offsetInCU: 0x25318, offset: 0x25318, size: 0x8, addend: 0x0, symName: __GLOBAL__sub_I_D.cpp, symObjAddr: 0x810, symBinAddr: 0x100003D20, symSize: 0x3C }
+  - { offsetInCU: 0x2533B, offset: 0x2533B, size: 0x8, addend: 0x0, symName: __ZSt16__insertion_sortIN9__gnu_cxx17__normal_iteratorIPiSt6vectorIiSaIiEEEENS0_5__ops15_Iter_less_iterEEvT_S9_T0_.isra.0, symObjAddr: 0x0, symBinAddr: 0x100003560, symSize: 0xD0 }
+  - { offsetInCU: 0x25683, offset: 0x25683, size: 0x8, addend: 0x0, symName: __ZSt16__introsort_loopIN9__gnu_cxx17__normal_iteratorIPiSt6vectorIiSaIiEEEElNS0_5__ops15_Iter_less_iterEEvT_S9_T0_T1_.isra.0, symObjAddr: 0xD0, symBinAddr: 0x100003630, symSize: 0x3F0 }
+...

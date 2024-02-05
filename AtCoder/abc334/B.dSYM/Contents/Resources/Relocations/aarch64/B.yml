@@ -1,0 +1,14 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     B
+relocations:
+  - { offsetInCU: 0x9D, offset: 0x9D, size: 0x8, addend: 0x0, symName: __ZNKSt5ctypeIcE8do_widenEc, symObjAddr: 0x0, symBinAddr: 0x100003CD0, symSize: 0x10 }
+  - { offsetInCU: 0x16F0C, offset: 0x16F0C, size: 0x8, addend: 0x0, symName: __ZStL8__ioinit, symObjAddr: 0xA19C8, symBinAddr: 0x100008000, symSize: 0x0 }
+  - { offsetInCU: 0x2150E, offset: 0x2150E, size: 0x8, addend: 0x0, symName: __GLOBAL__sub_I_B.cpp, symObjAddr: 0x180, symBinAddr: 0x100003E50, symSize: 0x3C }
+  - { offsetInCU: 0x217CC, offset: 0x217CC, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x140, symBinAddr: 0x100003E10, symSize: 0x40 }
+  - { offsetInCU: 0x2188F, offset: 0x2188F, size: 0x8, addend: 0x0, symName: __Z5SOLVEv, symObjAddr: 0x30, symBinAddr: 0x100003D00, symSize: 0x104 }
+  - { offsetInCU: 0x218FD, offset: 0x218FD, size: 0x8, addend: 0x0, symName: __Z5SOLVEv, symObjAddr: 0x30, symBinAddr: 0x100003D00, symSize: 0x104 }
+  - { offsetInCU: 0x21C8E, offset: 0x21C8E, size: 0x8, addend: 0x0, symName: __ZNKSt5ctypeIcE8do_widenEc, symObjAddr: 0x0, symBinAddr: 0x100003CD0, symSize: 0x10 }
+  - { offsetInCU: 0x21CBA, offset: 0x21CBA, size: 0x8, addend: 0x0, symName: __Z5floorxx, symObjAddr: 0x10, symBinAddr: 0x100003CE0, symSize: 0x20 }
+  - { offsetInCU: 0x21CC2, offset: 0x21CC2, size: 0x8, addend: 0x0, symName: __Z5SOLVEv, symObjAddr: 0x30, symBinAddr: 0x100003D00, symSize: 0x104 }
+...

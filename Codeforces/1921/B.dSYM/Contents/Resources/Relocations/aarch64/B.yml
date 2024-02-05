@@ -1,0 +1,16 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     B
+relocations:
+  - { offsetInCU: 0x9E, offset: 0x9E, size: 0x8, addend: 0x0, symName: __ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEE10_M_disposeEv, symObjAddr: 0x0, symBinAddr: 0x100003C40, symSize: 0x24 }
+  - { offsetInCU: 0x16E8E, offset: 0x16E8E, size: 0x8, addend: 0x0, symName: __ZStL8__ioinit, symObjAddr: 0xA3260, symBinAddr: 0x100008018, symSize: 0x0 }
+  - { offsetInCU: 0x21555, offset: 0x21555, size: 0x8, addend: 0x0, symName: __GLOBAL__sub_I_B.cpp, symObjAddr: 0x200, symBinAddr: 0x100003E20, symSize: 0x3C }
+  - { offsetInCU: 0x217FE, offset: 0x217FE, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x1A0, symBinAddr: 0x100003DC0, symSize: 0x60 }
+  - { offsetInCU: 0x21806, offset: 0x21806, size: 0x8, addend: 0x0, symName: __GLOBAL__sub_I_B.cpp, symObjAddr: 0x200, symBinAddr: 0x100003E20, symSize: 0x3C }
+  - { offsetInCU: 0x21909, offset: 0x21909, size: 0x8, addend: 0x0, symName: __Z5SOLVEv, symObjAddr: 0x24, symBinAddr: 0x100003C64, symSize: 0x15C }
+  - { offsetInCU: 0x21A4E, offset: 0x21A4E, size: 0x8, addend: 0x0, symName: __Z5SOLVEv, symObjAddr: 0x24, symBinAddr: 0x100003C64, symSize: 0x15C }
+  - { offsetInCU: 0x221F5, offset: 0x221F5, size: 0x8, addend: 0x0, symName: __ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEE10_M_disposeEv, symObjAddr: 0x0, symBinAddr: 0x100003C40, symSize: 0x24 }
+  - { offsetInCU: 0x221FD, offset: 0x221FD, size: 0x8, addend: 0x0, symName: __Z5SOLVEv, symObjAddr: 0x24, symBinAddr: 0x100003C64, symSize: 0x15C }
+  - { offsetInCU: 0x221DF, offset: 0x221DF, size: 0x8, addend: 0x0, symName: __ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEE10_M_disposeEv, symObjAddr: 0x0, symBinAddr: 0x100003C40, symSize: 0x24 }
+  - { offsetInCU: 0x22207, offset: 0x22207, size: 0x8, addend: 0x0, symName: __ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEE10_M_disposeEv, symObjAddr: 0x0, symBinAddr: 0x100003C40, symSize: 0x24 }
+...
