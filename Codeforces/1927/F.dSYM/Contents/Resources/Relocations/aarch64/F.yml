@@ -1,0 +1,19 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     F
+relocations:
+  - { offsetInCU: 0x9E, offset: 0x9E, size: 0x8, addend: 0x0, symName: __ZNSt6vectorIxSaIxEEaSERKS1_.isra.0, symObjAddr: 0x0, symBinAddr: 0x100002E60, symSize: 0x180 }
+  - { offsetInCU: 0x1715D, offset: 0x1715D, size: 0x8, addend: 0x0, symName: __ZStL8__ioinit, symObjAddr: 0xC1AF8, symBinAddr: 0x100008080, symSize: 0x0 }
+  - { offsetInCU: 0x1C058, offset: 0x1C058, size: 0x8, addend: 0x0, symName: _n, symObjAddr: 0xC1AF0, symBinAddr: 0x100008078, symSize: 0x0 }
+  - { offsetInCU: 0x1C073, offset: 0x1C073, size: 0x8, addend: 0x0, symName: _m, symObjAddr: 0xC1AE8, symBinAddr: 0x100008070, symSize: 0x0 }
+  - { offsetInCU: 0x27632, offset: 0x27632, size: 0x8, addend: 0x0, symName: __GLOBAL__sub_I_F.cpp, symObjAddr: 0xE20, symBinAddr: 0x100003BB0, symSize: 0x3C }
+  - { offsetInCU: 0x29826, offset: 0x29826, size: 0x8, addend: 0x0, symName: __ZNSt6vectorIxSaIxEED1Ev, symObjAddr: 0x180, symBinAddr: 0x100002FE0, symSize: 0x20 }
+  - { offsetInCU: 0x29A24, offset: 0x29A24, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0xDC0, symBinAddr: 0x100003B50, symSize: 0x60 }
+  - { offsetInCU: 0x29A2C, offset: 0x29A2C, size: 0x8, addend: 0x0, symName: __GLOBAL__sub_I_F.cpp, symObjAddr: 0xE20, symBinAddr: 0x100003BB0, symSize: 0x3C }
+  - { offsetInCU: 0x29B30, offset: 0x29B30, size: 0x8, addend: 0x0, symName: __Z5SOLVEv, symObjAddr: 0x780, symBinAddr: 0x1000035E0, symSize: 0x564 }
+  - { offsetInCU: 0x2AB1C, offset: 0x2AB1C, size: 0x8, addend: 0x0, symName: __Z5SOLVEv, symObjAddr: 0x780, symBinAddr: 0x1000035E0, symSize: 0x564 }
+  - { offsetInCU: 0x2B9E7, offset: 0x2B9E7, size: 0x8, addend: 0x0, symName: __Z4goodRSt6vectorIS_ISt4pairIxxESaIS1_EESaIS3_EE, symObjAddr: 0x4C4, symBinAddr: 0x100003324, symSize: 0x2BC }
+  - { offsetInCU: 0x2C9AF, offset: 0x2C9AF, size: 0x8, addend: 0x0, symName: __Z3dfsxRSt6vectorIxSaIxEExRS_IS_ISt4pairIxxESaIS4_EESaIS6_EE, symObjAddr: 0x1A0, symBinAddr: 0x100003000, symSize: 0x324 }
+  - { offsetInCU: 0x2C9B7, offset: 0x2C9B7, size: 0x8, addend: 0x0, symName: __Z4goodRSt6vectorIS_ISt4pairIxxESaIS1_EESaIS3_EE, symObjAddr: 0x4C4, symBinAddr: 0x100003324, symSize: 0x2BC }
+  - { offsetInCU: 0x2D9DE, offset: 0x2D9DE, size: 0x8, addend: 0x0, symName: __ZNSt6vectorIxSaIxEEaSERKS1_.isra.0, symObjAddr: 0x0, symBinAddr: 0x100002E60, symSize: 0x180 }
+...
