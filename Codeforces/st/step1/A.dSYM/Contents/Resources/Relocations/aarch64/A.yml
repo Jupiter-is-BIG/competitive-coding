@@ -1,0 +1,17 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     A
+relocations:
+  - { offsetInCU: 0xA2, offset: 0xA2, size: 0x8, addend: 0x0, symName: __ZN7segtree5buildERSt6vectorIxSaIxEExxx, symObjAddr: 0x0, symBinAddr: 0x1000022F0, symSize: 0x5E0 }
+  - { offsetInCU: 0x16ED6, offset: 0x16ED6, size: 0x8, addend: 0x0, symName: __ZStL8__ioinit, symObjAddr: 0xB3548, symBinAddr: 0x10000801F, symSize: 0x0 }
+  - { offsetInCU: 0x230CA, offset: 0x230CA, size: 0x8, addend: 0x0, symName: __GLOBAL__sub_I_A.cpp, symObjAddr: 0x18D0, symBinAddr: 0x100003B80, symSize: 0x3C }
+  - { offsetInCU: 0x230D2, offset: 0x230D2, size: 0x8, addend: 0x0, symName: GCC_except_table0, symObjAddr: 0x190C, symBinAddr: 0x100008000, symSize: 0x0 }
+  - { offsetInCU: 0x238E1, offset: 0x238E1, size: 0x8, addend: 0x0, symName: __ZNSt6vectorIxSaIxEED1Ev, symObjAddr: 0x1060, symBinAddr: 0x100003350, symSize: 0x1C }
+  - { offsetInCU: 0x23B1C, offset: 0x23B1C, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x10C0, symBinAddr: 0x100003370, symSize: 0x810 }
+  - { offsetInCU: 0x24333, offset: 0x24333, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x10C0, symBinAddr: 0x100003370, symSize: 0x810 }
+  - { offsetInCU: 0x258B3, offset: 0x258B3, size: 0x8, addend: 0x0, symName: __ZN7segtree5buildERSt6vectorIxSaIxEExxx, symObjAddr: 0x0, symBinAddr: 0x1000022F0, symSize: 0x5E0 }
+  - { offsetInCU: 0x258BB, offset: 0x258BB, size: 0x8, addend: 0x0, symName: __ZN7segtree3setExxxxx, symObjAddr: 0x5E0, symBinAddr: 0x1000028D0, symSize: 0x320 }
+  - { offsetInCU: 0x26622, offset: 0x26622, size: 0x8, addend: 0x0, symName: __ZN7segtree3setExxxxx, symObjAddr: 0x5E0, symBinAddr: 0x1000028D0, symSize: 0x320 }
+  - { offsetInCU: 0x2662A, offset: 0x2662A, size: 0x8, addend: 0x0, symName: __ZN7segtree3sumExxxxx, symObjAddr: 0x900, symBinAddr: 0x100002BF0, symSize: 0x760 }
+  - { offsetInCU: 0x26BD5, offset: 0x26BD5, size: 0x8, addend: 0x0, symName: __ZN7segtree3sumExxxxx, symObjAddr: 0x900, symBinAddr: 0x100002BF0, symSize: 0x760 }
+...

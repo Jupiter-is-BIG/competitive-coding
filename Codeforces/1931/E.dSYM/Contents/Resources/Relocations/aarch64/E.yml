@@ -1,0 +1,15 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     E
+relocations:
+  - { offsetInCU: 0x9E, offset: 0x9E, size: 0x8, addend: 0x0, symName: __ZNSt8_Rb_treeISt4pairIxxES1_St9_IdentityIS1_E12ComparePairsSaIS1_EE8_M_eraseEPSt13_Rb_tree_nodeIS1_E.isra.0, symObjAddr: 0x0, symBinAddr: 0x100003700, symSize: 0x180 }
+  - { offsetInCU: 0x16E25, offset: 0x16E25, size: 0x8, addend: 0x0, symName: __ZStL8__ioinit, symObjAddr: 0xB6680, symBinAddr: 0x100008014, symSize: 0x0 }
+  - { offsetInCU: 0x25326, offset: 0x25326, size: 0x8, addend: 0x0, symName: __GLOBAL__sub_I_E.cpp, symObjAddr: 0x640, symBinAddr: 0x100003D10, symSize: 0x3C }
+  - { offsetInCU: 0x25A70, offset: 0x25A70, size: 0x8, addend: 0x0, symName: __ZNSt8_Rb_treeISt4pairIxxES1_St9_IdentityIS1_E12ComparePairsSaIS1_EE15_M_insert_equalIRKS1_EESt17_Rb_tree_iteratorIS1_EOT_, symObjAddr: 0x180, symBinAddr: 0x100003880, symSize: 0xF0 }
+  - { offsetInCU: 0x26247, offset: 0x26247, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x5E0, symBinAddr: 0x100003CB0, symSize: 0x60 }
+  - { offsetInCU: 0x2624F, offset: 0x2624F, size: 0x8, addend: 0x0, symName: __GLOBAL__sub_I_E.cpp, symObjAddr: 0x640, symBinAddr: 0x100003D10, symSize: 0x3C }
+  - { offsetInCU: 0x26353, offset: 0x26353, size: 0x8, addend: 0x0, symName: __Z5SOLVEv, symObjAddr: 0x270, symBinAddr: 0x100003970, symSize: 0x340 }
+  - { offsetInCU: 0x270DF, offset: 0x270DF, size: 0x8, addend: 0x0, symName: __Z5SOLVEv, symObjAddr: 0x270, symBinAddr: 0x100003970, symSize: 0x340 }
+  - { offsetInCU: 0x27676, offset: 0x27676, size: 0x8, addend: 0x0, symName: __ZNSt8_Rb_treeISt4pairIxxES1_St9_IdentityIS1_E12ComparePairsSaIS1_EE8_M_eraseEPSt13_Rb_tree_nodeIS1_E.isra.0, symObjAddr: 0x0, symBinAddr: 0x100003700, symSize: 0x180 }
+  - { offsetInCU: 0x2767E, offset: 0x2767E, size: 0x8, addend: 0x0, symName: __ZNSt8_Rb_treeISt4pairIxxES1_St9_IdentityIS1_E12ComparePairsSaIS1_EE15_M_insert_equalIRKS1_EESt17_Rb_tree_iteratorIS1_EOT_, symObjAddr: 0x180, symBinAddr: 0x100003880, symSize: 0xF0 }
+...

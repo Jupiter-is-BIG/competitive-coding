@@ -1,0 +1,19 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     B
+relocations:
+  - { offsetInCU: 0x9E, offset: 0x9E, size: 0x8, addend: 0x0, symName: __ZNSt6vectorIiSaIiEEC1EmRKS0_.isra.0, symObjAddr: 0x0, symBinAddr: 0x100002EA0, symSize: 0xB0 }
+  - { offsetInCU: 0x16F07, offset: 0x16F07, size: 0x8, addend: 0x0, symName: __ZStL8__ioinit, symObjAddr: 0xC2C18, symBinAddr: 0x100008050, symSize: 0x0 }
+  - { offsetInCU: 0x28E42, offset: 0x28E42, size: 0x8, addend: 0x0, symName: __GLOBAL__sub_I_B.cpp, symObjAddr: 0xC60, symBinAddr: 0x100003A80, symSize: 0x3C }
+  - { offsetInCU: 0x2A16A, offset: 0x2A16A, size: 0x8, addend: 0x0, symName: __ZNSt8_Rb_treeISt4pairIiiES1_St9_IdentityIS1_ESt4lessIS1_ESaIS1_EE11equal_rangeERKS1_, symObjAddr: 0x430, symBinAddr: 0x1000032D0, symSize: 0xD0 }
+  - { offsetInCU: 0x2ACA7, offset: 0x2ACA7, size: 0x8, addend: 0x0, symName: __ZNSt8_Rb_treeISt4pairIiiES1_St9_IdentityIS1_ESt4lessIS1_ESaIS1_EE16_M_insert_uniqueIS1_EES0_ISt17_Rb_tree_iteratorIS1_EbEOT_, symObjAddr: 0x2A0, symBinAddr: 0x100003140, symSize: 0x190 }
+  - { offsetInCU: 0x2B620, offset: 0x2B620, size: 0x8, addend: 0x0, symName: __ZNSt12_Vector_baseIiSaIiEED2Ev, symObjAddr: 0x284, symBinAddr: 0x100003124, symSize: 0x1C }
+  - { offsetInCU: 0x2B628, offset: 0x2B628, size: 0x8, addend: 0x0, symName: __ZNSt8_Rb_treeISt4pairIiiES1_St9_IdentityIS1_ESt4lessIS1_ESaIS1_EE16_M_insert_uniqueIS1_EES0_ISt17_Rb_tree_iteratorIS1_EbEOT_, symObjAddr: 0x2A0, symBinAddr: 0x100003140, symSize: 0x190 }
+  - { offsetInCU: 0x2BA61, offset: 0x2BA61, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x630, symBinAddr: 0x100003450, symSize: 0x630 }
+  - { offsetInCU: 0x2D4B0, offset: 0x2D4B0, size: 0x8, addend: 0x0, symName: __ZNSt6vectorIiSaIiEEC1EmRKS0_.isra.0, symObjAddr: 0x0, symBinAddr: 0x100002EA0, symSize: 0xB0 }
+  - { offsetInCU: 0x2D9F7, offset: 0x2D9F7, size: 0x8, addend: 0x0, symName: __ZNSt11_Deque_baseIiSaIiEED2Ev.part.0, symObjAddr: 0xB0, symBinAddr: 0x100002F50, symSize: 0x54 }
+  - { offsetInCU: 0x2D9FF, offset: 0x2D9FF, size: 0x8, addend: 0x0, symName: __ZNSt8_Rb_treeISt4pairIiiES1_St9_IdentityIS1_ESt4lessIS1_ESaIS1_EE8_M_eraseEPSt13_Rb_tree_nodeIS1_E.isra.0, symObjAddr: 0x104, symBinAddr: 0x100002FA4, symSize: 0x180 }
+  - { offsetInCU: 0x2DCAD, offset: 0x2DCAD, size: 0x8, addend: 0x0, symName: __ZNSt8_Rb_treeISt4pairIiiES1_St9_IdentityIS1_ESt4lessIS1_ESaIS1_EE8_M_eraseEPSt13_Rb_tree_nodeIS1_E.isra.0, symObjAddr: 0x104, symBinAddr: 0x100002FA4, symSize: 0x180 }
+  - { offsetInCU: 0x2DCB5, offset: 0x2DCB5, size: 0x8, addend: 0x0, symName: __ZNSt12_Vector_baseIiSaIiEED2Ev, symObjAddr: 0x284, symBinAddr: 0x100003124, symSize: 0x1C }
+  - { offsetInCU: 0x2EC0B, offset: 0x2EC0B, size: 0x8, addend: 0x0, symName: __ZNSt8_Rb_treeISt4pairIiiES1_St9_IdentityIS1_ESt4lessIS1_ESaIS1_EE5eraseERKS1_.isra.0, symObjAddr: 0x500, symBinAddr: 0x1000033A0, symSize: 0xAC }
+...

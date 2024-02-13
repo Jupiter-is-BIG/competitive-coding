@@ -1,0 +1,17 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     B
+relocations:
+  - { offsetInCU: 0x9E, offset: 0x9E, size: 0x8, addend: 0x0, symName: __ZSt16__introsort_loopIN9__gnu_cxx17__normal_iteratorIPxSt6vectorIxSaIxEEEElNS0_5__ops15_Iter_less_iterEEvT_S9_T0_T1_.isra.0, symObjAddr: 0x0, symBinAddr: 0x100003110, symSize: 0x3F0 }
+  - { offsetInCU: 0x1713F, offset: 0x1713F, size: 0x8, addend: 0x0, symName: __ZStL8__ioinit, symObjAddr: 0xBD698, symBinAddr: 0x100008013, symSize: 0x0 }
+  - { offsetInCU: 0x2697E, offset: 0x2697E, size: 0x8, addend: 0x0, symName: __GLOBAL__sub_I_B.cpp, symObjAddr: 0xBB0, symBinAddr: 0x100003C80, symSize: 0x3C }
+  - { offsetInCU: 0x27FA9, offset: 0x27FA9, size: 0x8, addend: 0x0, symName: __ZNSt8_Rb_treeIxxSt9_IdentityIxESt4lessIxESaIxEE16_M_insert_uniqueIRKxEESt4pairISt17_Rb_tree_iteratorIxEbEOT_, symObjAddr: 0x570, symBinAddr: 0x100003680, symSize: 0x120 }
+  - { offsetInCU: 0x27FB1, offset: 0x27FB1, size: 0x8, addend: 0x0, symName: __Z5SOLVEv, symObjAddr: 0x690, symBinAddr: 0x1000037A0, symSize: 0x47C }
+  - { offsetInCU: 0x289B7, offset: 0x289B7, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0xB50, symBinAddr: 0x100003C20, symSize: 0x60 }
+  - { offsetInCU: 0x289BF, offset: 0x289BF, size: 0x8, addend: 0x0, symName: __GLOBAL__sub_I_B.cpp, symObjAddr: 0xBB0, symBinAddr: 0x100003C80, symSize: 0x3C }
+  - { offsetInCU: 0x28AC3, offset: 0x28AC3, size: 0x8, addend: 0x0, symName: __Z5SOLVEv, symObjAddr: 0x690, symBinAddr: 0x1000037A0, symSize: 0x47C }
+  - { offsetInCU: 0x292C5, offset: 0x292C5, size: 0x8, addend: 0x0, symName: __Z5SOLVEv, symObjAddr: 0x690, symBinAddr: 0x1000037A0, symSize: 0x47C }
+  - { offsetInCU: 0x2A301, offset: 0x2A301, size: 0x8, addend: 0x0, symName: __ZSt16__introsort_loopIN9__gnu_cxx17__normal_iteratorIPxSt6vectorIxSaIxEEEElNS0_5__ops15_Iter_less_iterEEvT_S9_T0_T1_.isra.0, symObjAddr: 0x0, symBinAddr: 0x100003110, symSize: 0x3F0 }
+  - { offsetInCU: 0x2AEED, offset: 0x2AEED, size: 0x8, addend: 0x0, symName: __ZNSt8_Rb_treeIxxSt9_IdentityIxESt4lessIxESaIxEE8_M_eraseEPSt13_Rb_tree_nodeIxE.isra.0, symObjAddr: 0x3F0, symBinAddr: 0x100003500, symSize: 0x180 }
+  - { offsetInCU: 0x2AEF5, offset: 0x2AEF5, size: 0x8, addend: 0x0, symName: __ZNSt8_Rb_treeIxxSt9_IdentityIxESt4lessIxESaIxEE16_M_insert_uniqueIRKxEESt4pairISt17_Rb_tree_iteratorIxEbEOT_, symObjAddr: 0x570, symBinAddr: 0x100003680, symSize: 0x120 }
+...

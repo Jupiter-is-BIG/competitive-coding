@@ -1,0 +1,19 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     O
+relocations:
+  - { offsetInCU: 0xA2, offset: 0xA2, size: 0x8, addend: 0x0, symName: __ZN7segtree5buildERSt6vectorIxSaIxEExxx, symObjAddr: 0x0, symBinAddr: 0x100002320, symSize: 0x5E0 }
+  - { offsetInCU: 0x16ED6, offset: 0x16ED6, size: 0x8, addend: 0x0, symName: __ZStL8__ioinit, symObjAddr: 0xB3598, symBinAddr: 0x10000801F, symSize: 0x0 }
+  - { offsetInCU: 0x230CA, offset: 0x230CA, size: 0x8, addend: 0x0, symName: __GLOBAL__sub_I_O.cpp, symObjAddr: 0x18A0, symBinAddr: 0x100003B80, symSize: 0x3C }
+  - { offsetInCU: 0x230D2, offset: 0x230D2, size: 0x8, addend: 0x0, symName: GCC_except_table0, symObjAddr: 0x18DC, symBinAddr: 0x100008000, symSize: 0x0 }
+  - { offsetInCU: 0x238AB, offset: 0x238AB, size: 0x8, addend: 0x0, symName: __ZNSt12_Vector_baseIxSaIxEED2Ev, symObjAddr: 0x1060, symBinAddr: 0x100003380, symSize: 0x1C }
+  - { offsetInCU: 0x23AF3, offset: 0x23AF3, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x10C0, symBinAddr: 0x1000033A0, symSize: 0x7E0 }
+  - { offsetInCU: 0x23AFB, offset: 0x23AFB, size: 0x8, addend: 0x0, symName: __GLOBAL__sub_I_O.cpp, symObjAddr: 0x18A0, symBinAddr: 0x100003B80, symSize: 0x3C }
+  - { offsetInCU: 0x2430A, offset: 0x2430A, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x10C0, symBinAddr: 0x1000033A0, symSize: 0x7E0 }
+  - { offsetInCU: 0x255F8, offset: 0x255F8, size: 0x8, addend: 0x0, symName: __GLOBAL__sub_I_O.cpp, symObjAddr: 0x18A0, symBinAddr: 0x100003B80, symSize: 0x3C }
+  - { offsetInCU: 0x2592E, offset: 0x2592E, size: 0x8, addend: 0x0, symName: __ZN7segtree5buildERSt6vectorIxSaIxEExxx, symObjAddr: 0x0, symBinAddr: 0x100002320, symSize: 0x5E0 }
+  - { offsetInCU: 0x25936, offset: 0x25936, size: 0x8, addend: 0x0, symName: __ZN7segtree3setExxxxx, symObjAddr: 0x5E0, symBinAddr: 0x100002900, symSize: 0x320 }
+  - { offsetInCU: 0x2669D, offset: 0x2669D, size: 0x8, addend: 0x0, symName: __ZN7segtree3setExxxxx, symObjAddr: 0x5E0, symBinAddr: 0x100002900, symSize: 0x320 }
+  - { offsetInCU: 0x266A5, offset: 0x266A5, size: 0x8, addend: 0x0, symName: __ZN7segtree3sumExxxxx, symObjAddr: 0x900, symBinAddr: 0x100002C20, symSize: 0x760 }
+  - { offsetInCU: 0x26C50, offset: 0x26C50, size: 0x8, addend: 0x0, symName: __ZN7segtree3sumExxxxx, symObjAddr: 0x900, symBinAddr: 0x100002C20, symSize: 0x760 }
+...
