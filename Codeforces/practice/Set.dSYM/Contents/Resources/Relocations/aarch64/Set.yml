@@ -1,0 +1,21 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     Set
+relocations:
+  - { offsetInCU: 0xA4, offset: 0xA4, size: 0x8, addend: 0x0, symName: __ZNSt11_Deque_baseIiSaIiEED2Ev.part.0, symObjAddr: 0x0, symBinAddr: 0x1000037E0, symSize: 0x54 }
+  - { offsetInCU: 0x16E0E, offset: 0x16E0E, size: 0x8, addend: 0x0, symName: __ZStL8__ioinit, symObjAddr: 0xAAA70, symBinAddr: 0x100008038, symSize: 0x0 }
+  - { offsetInCU: 0x23B07, offset: 0x23B07, size: 0x8, addend: 0x0, symName: __GLOBAL__sub_I_Set.cpp, symObjAddr: 0x540, symBinAddr: 0x100003CA0, symSize: 0x3C }
+  - { offsetInCU: 0x24869, offset: 0x24869, size: 0x8, addend: 0x0, symName: __ZNSt5dequeIiSaIiEE2atEm, symObjAddr: 0x290, symBinAddr: 0x100003A70, symSize: 0xAC }
+  - { offsetInCU: 0x248AF, offset: 0x248AF, size: 0x8, addend: 0x0, symName: __ZNSt5dequeIiSaIiEE2atEm, symObjAddr: 0x290, symBinAddr: 0x100003A70, symSize: 0xAC }
+  - { offsetInCU: 0x248E5, offset: 0x248E5, size: 0x8, addend: 0x0, symName: __ZNSt5dequeIiSaIiEE2atEm, symObjAddr: 0x290, symBinAddr: 0x100003A70, symSize: 0xAC }
+  - { offsetInCU: 0x2490D, offset: 0x2490D, size: 0x8, addend: 0x0, symName: __ZNSt5dequeIiSaIiEE2atEm, symObjAddr: 0x290, symBinAddr: 0x100003A70, symSize: 0xAC }
+  - { offsetInCU: 0x24B35, offset: 0x24B35, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x3C0, symBinAddr: 0x100003B20, symSize: 0x180 }
+  - { offsetInCU: 0x24B65, offset: 0x24B65, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x3C0, symBinAddr: 0x100003B20, symSize: 0x180 }
+  - { offsetInCU: 0x24B8D, offset: 0x24B8D, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x3C0, symBinAddr: 0x100003B20, symSize: 0x180 }
+  - { offsetInCU: 0x24BB5, offset: 0x24BB5, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x3C0, symBinAddr: 0x100003B20, symSize: 0x180 }
+  - { offsetInCU: 0x24BD9, offset: 0x24BD9, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x3C0, symBinAddr: 0x100003B20, symSize: 0x180 }
+  - { offsetInCU: 0x24BFD, offset: 0x24BFD, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x3C0, symBinAddr: 0x100003B20, symSize: 0x180 }
+  - { offsetInCU: 0x252D8, offset: 0x252D8, size: 0x8, addend: 0x0, symName: __ZNSt11_Deque_baseIiSaIiEED2Ev.part.0, symObjAddr: 0x0, symBinAddr: 0x1000037E0, symSize: 0x54 }
+  - { offsetInCU: 0x252E0, offset: 0x252E0, size: 0x8, addend: 0x0, symName: __ZNSt5dequeIiSaIiEE12emplace_backIJiEEERiDpOT_.isra.0, symObjAddr: 0x54, symBinAddr: 0x100003834, symSize: 0x23C }
+  - { offsetInCU: 0x2558E, offset: 0x2558E, size: 0x8, addend: 0x0, symName: __ZNSt5dequeIiSaIiEE12emplace_backIJiEEERiDpOT_.isra.0, symObjAddr: 0x54, symBinAddr: 0x100003834, symSize: 0x23C }
+...

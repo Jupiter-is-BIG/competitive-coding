@@ -1,0 +1,16 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     A
+relocations:
+  - { offsetInCU: 0xA2, offset: 0xA2, size: 0x8, addend: 0x0, symName: __ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEC1IS3_EEPKcRKS3_.isra.0, symObjAddr: 0x0, symBinAddr: 0x100003990, symSize: 0xA0 }
+  - { offsetInCU: 0x16E71, offset: 0x16E71, size: 0x8, addend: 0x0, symName: __ZStL8__ioinit, symObjAddr: 0xA4758, symBinAddr: 0x100008046, symSize: 0x0 }
+  - { offsetInCU: 0x2142A, offset: 0x2142A, size: 0x8, addend: 0x0, symName: __GLOBAL__sub_I_A.cpp, symObjAddr: 0x460, symBinAddr: 0x100003D50, symSize: 0x3C }
+  - { offsetInCU: 0x21432, offset: 0x21432, size: 0x8, addend: 0x0, symName: GCC_except_table0, symObjAddr: 0x49C, symBinAddr: 0x100008000, symSize: 0x0 }
+  - { offsetInCU: 0x219B8, offset: 0x219B8, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x170, symBinAddr: 0x100003A60, symSize: 0x2F0 }
+  - { offsetInCU: 0x219C0, offset: 0x219C0, size: 0x8, addend: 0x0, symName: __GLOBAL__sub_I_A.cpp, symObjAddr: 0x460, symBinAddr: 0x100003D50, symSize: 0x3C }
+  - { offsetInCU: 0x2212F, offset: 0x2212F, size: 0x8, addend: 0x0, symName: __ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEC1IS3_EEPKcRKS3_.isra.0, symObjAddr: 0x0, symBinAddr: 0x100003990, symSize: 0xA0 }
+  - { offsetInCU: 0x22137, offset: 0x22137, size: 0x8, addend: 0x0, symName: __ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEE10_M_disposeEv, symObjAddr: 0xA0, symBinAddr: 0x100003A30, symSize: 0x24 }
+  - { offsetInCU: 0x2264D, offset: 0x2264D, size: 0x8, addend: 0x0, symName: __ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEE10_M_disposeEv, symObjAddr: 0xA0, symBinAddr: 0x100003A30, symSize: 0x24 }
+  - { offsetInCU: 0x22637, offset: 0x22637, size: 0x8, addend: 0x0, symName: __ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEE10_M_disposeEv, symObjAddr: 0xA0, symBinAddr: 0x100003A30, symSize: 0x24 }
+  - { offsetInCU: 0x2265F, offset: 0x2265F, size: 0x8, addend: 0x0, symName: __ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEE10_M_disposeEv, symObjAddr: 0xA0, symBinAddr: 0x100003A30, symSize: 0x24 }
+...
