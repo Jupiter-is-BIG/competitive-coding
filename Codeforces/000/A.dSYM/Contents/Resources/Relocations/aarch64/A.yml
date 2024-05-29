@@ -1,0 +1,24 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     A
+relocations:
+  - { offsetInCU: 0x9D, offset: 0x9D, size: 0x8, addend: 0x0, symName: __ZNSt8_Rb_treeISt4pairIxS0_IxxEES0_IKS2_xESt10_Select1stIS4_ESt4lessIS2_ESaIS4_EE8_M_eraseEPSt13_Rb_tree_nodeIS4_E.isra.0, symObjAddr: 0x0, symBinAddr: 0x100002890, symSize: 0x180 }
+  - { offsetInCU: 0x22F32, offset: 0x22F32, size: 0x8, addend: 0x0, symName: __ZStL8__ioinit, symObjAddr: 0xD9EF0, symBinAddr: 0x10000801A, symSize: 0x0 }
+  - { offsetInCU: 0x38B14, offset: 0x38B14, size: 0x8, addend: 0x0, symName: __GLOBAL__sub_I_A.cpp, symObjAddr: 0x11E0, symBinAddr: 0x100003A20, symSize: 0x3C }
+  - { offsetInCU: 0x39732, offset: 0x39732, size: 0x8, addend: 0x0, symName: __ZNSt8_Rb_treeISt4pairIxS0_IxxEES0_IKS2_xESt10_Select1stIS4_ESt4lessIS2_ESaIS4_EE24_M_get_insert_unique_posERS3_, symObjAddr: 0x680, symBinAddr: 0x100002F10, symSize: 0x124 }
+  - { offsetInCU: 0x3973A, offset: 0x3973A, size: 0x8, addend: 0x0, symName: __ZNSt8_Rb_treeISt4pairIxS0_IxxEES0_IKS2_xESt10_Select1stIS4_ESt4lessIS2_ESaIS4_EE29_M_get_insert_hint_unique_posESt23_Rb_tree_const_iteratorIS4_ERS3_, symObjAddr: 0x7A4, symBinAddr: 0x100003034, symSize: 0x1D0 }
+  - { offsetInCU: 0x39EA3, offset: 0x39EA3, size: 0x8, addend: 0x0, symName: __ZNSt8_Rb_treeISt4pairIxxES0_IKS1_xESt10_Select1stIS3_ESt4lessIS1_ESaIS3_EE24_M_get_insert_unique_posERS2_, symObjAddr: 0x300, symBinAddr: 0x100002B90, symSize: 0x120 }
+  - { offsetInCU: 0x3A536, offset: 0x3A536, size: 0x8, addend: 0x0, symName: __ZNSt8_Rb_treeISt4pairIxS0_IxxEES0_IKS2_xESt10_Select1stIS4_ESt4lessIS2_ESaIS4_EE29_M_get_insert_hint_unique_posESt23_Rb_tree_const_iteratorIS4_ERS3_, symObjAddr: 0x7A4, symBinAddr: 0x100003034, symSize: 0x1D0 }
+  - { offsetInCU: 0x3A53E, offset: 0x3A53E, size: 0x8, addend: 0x0, symName: __Z5SOLVEv, symObjAddr: 0x974, symBinAddr: 0x100003204, symSize: 0x7B4 }
+  - { offsetInCU: 0x3B241, offset: 0x3B241, size: 0x8, addend: 0x0, symName: __ZNSt8_Rb_treeISt4pairIxxES0_IKS1_xESt10_Select1stIS3_ESt4lessIS1_ESaIS3_EE29_M_get_insert_hint_unique_posESt23_Rb_tree_const_iteratorIS3_ERS2_, symObjAddr: 0x420, symBinAddr: 0x100002CB0, symSize: 0x170 }
+  - { offsetInCU: 0x3B249, offset: 0x3B249, size: 0x8, addend: 0x0, symName: __ZNSt8_Rb_treeISt4pairIxxES0_IKS1_xESt10_Select1stIS3_ESt4lessIS1_ESaIS3_EE22_M_emplace_hint_uniqueIJRKSt21piecewise_construct_tSt5tupleIJOS1_EESE_IJEEEEESt17_Rb_tree_iteratorIS3_ESt23_Rb_tree_const_iteratorIS3_EDpOT_.isra.0, symObjAddr: 0x590, symBinAddr: 0x100002E20, symSize: 0xF0 }
+  - { offsetInCU: 0x3C371, offset: 0x3C371, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x1180, symBinAddr: 0x1000039C0, symSize: 0x60 }
+  - { offsetInCU: 0x3C379, offset: 0x3C379, size: 0x8, addend: 0x0, symName: __GLOBAL__sub_I_A.cpp, symObjAddr: 0x11E0, symBinAddr: 0x100003A20, symSize: 0x3C }
+  - { offsetInCU: 0x3C47D, offset: 0x3C47D, size: 0x8, addend: 0x0, symName: __Z5SOLVEv, symObjAddr: 0x974, symBinAddr: 0x100003204, symSize: 0x7B4 }
+  - { offsetInCU: 0x3F226, offset: 0x3F226, size: 0x8, addend: 0x0, symName: __Z5SOLVEv, symObjAddr: 0x974, symBinAddr: 0x100003204, symSize: 0x7B4 }
+  - { offsetInCU: 0x40231, offset: 0x40231, size: 0x8, addend: 0x0, symName: __ZNSt8_Rb_treeISt4pairIxS0_IxxEES0_IKS2_xESt10_Select1stIS4_ESt4lessIS2_ESaIS4_EE8_M_eraseEPSt13_Rb_tree_nodeIS4_E.isra.0, symObjAddr: 0x0, symBinAddr: 0x100002890, symSize: 0x180 }
+  - { offsetInCU: 0x40239, offset: 0x40239, size: 0x8, addend: 0x0, symName: __ZNSt8_Rb_treeISt4pairIxxES0_IKS1_xESt10_Select1stIS3_ESt4lessIS1_ESaIS3_EE8_M_eraseEPSt13_Rb_tree_nodeIS3_E.isra.0, symObjAddr: 0x180, symBinAddr: 0x100002A10, symSize: 0x180 }
+  - { offsetInCU: 0x4118F, offset: 0x4118F, size: 0x8, addend: 0x0, symName: __ZNSt8_Rb_treeISt4pairIxxES0_IKS1_xESt10_Select1stIS3_ESt4lessIS1_ESaIS3_EE8_M_eraseEPSt13_Rb_tree_nodeIS3_E.isra.0, symObjAddr: 0x180, symBinAddr: 0x100002A10, symSize: 0x180 }
+  - { offsetInCU: 0x41197, offset: 0x41197, size: 0x8, addend: 0x0, symName: __ZNSt8_Rb_treeISt4pairIxxES0_IKS1_xESt10_Select1stIS3_ESt4lessIS1_ESaIS3_EE24_M_get_insert_unique_posERS2_, symObjAddr: 0x300, symBinAddr: 0x100002B90, symSize: 0x120 }
+  - { offsetInCU: 0x420ED, offset: 0x420ED, size: 0x8, addend: 0x0, symName: __ZNSt8_Rb_treeISt4pairIxxES0_IKS1_xESt10_Select1stIS3_ESt4lessIS1_ESaIS3_EE22_M_emplace_hint_uniqueIJRKSt21piecewise_construct_tSt5tupleIJOS1_EESE_IJEEEEESt17_Rb_tree_iteratorIS3_ESt23_Rb_tree_const_iteratorIS3_EDpOT_.isra.0, symObjAddr: 0x590, symBinAddr: 0x100002E20, symSize: 0xF0 }
+...
